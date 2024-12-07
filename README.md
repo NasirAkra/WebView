@@ -15,4 +15,4 @@ This is a simple Android application demonstrating the use of **WebView** to dis
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/WebViewExample.git
+   git clone https://github.com/NasirAkra/WebViewExample.git
